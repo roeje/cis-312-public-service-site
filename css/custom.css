@@ -17,7 +17,7 @@
     width: 100%;
     height: 400px;
     color: #337ab7;
-    background: url(/img/questions.jpg) no-repeat center center scroll;
+    background: url(../img/questions.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -29,7 +29,7 @@
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(/img/9805970084_7d2eeb5863_k.jpg) no-repeat center center scroll;
+    background: url(../img/9805970084_7d2eeb5863_k.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -41,7 +41,7 @@
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(/img/2631992240_3def849f14_b.jpg) no-repeat center center scroll;
+    background: url(../img/2631992240_3def849f14_b.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
