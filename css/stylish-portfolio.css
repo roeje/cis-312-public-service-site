@@ -155,6 +155,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
+    color:  #fff;
     background: url(/img/cybersecurity.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -241,4 +242,6 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background-color: #337ab7;
+    color: white;
 }
