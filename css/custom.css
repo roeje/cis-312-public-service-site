@@ -40,10 +40,15 @@
     display: table;
     width: 100%;
     height: 400px;
-    color: #fff;
+    /*color: #fff;*/
+    color: black;
     background: url(../img/2631992240_3def849f14_b.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.callTxt {
+    background-color: lightgrey;
 }
